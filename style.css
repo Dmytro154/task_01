@@ -1,9 +1,4 @@
-/* Клас для блоку з червоним фоном */
-.block {
-    background-color: red;
-}
-
-/* Клас для елемента p з висотою 10px */
-.text {
-    height: 10px;
+/* Стиль для ідентифікатора header */
+#header {
+    text-align: center;
 }
